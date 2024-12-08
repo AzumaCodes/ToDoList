@@ -2,7 +2,7 @@
     --background: #101114;
     --primary-color: #1c1d20;
     --secondary-color: #4a4d57;
-    --accent-color: hsl(60, 100%, 75%);
+    --accent-color: #e9e900);
     --text-color: #f9f9f9;
 }
 *{
@@ -70,7 +70,7 @@ form{
     cursor: pointer;
 }
 #add-button:hover{
-    background-color: #06e0e0;
+    background-color: #ffff00;
 }
 .todo{
     margin-bottom: 10px;
